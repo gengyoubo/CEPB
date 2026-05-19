@@ -22,6 +22,7 @@
       "variant": {
         "groundSpeed": 0.875,
         "swimSpeed": 1.4,
+        "canGlide":true,
         "breatheMode": "ANY"
       }
     }
