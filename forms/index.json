@@ -21,8 +21,9 @@
       "version": 1,
       "variant": {
         "groundSpeed": 0.875,
-        "swimSpeed": 1.4,
+        "swimSpeed": 2,
         "canGlide":true,
+        "flySpeed": 1.5
         "breatheMode": "ANY"
       }
     }
